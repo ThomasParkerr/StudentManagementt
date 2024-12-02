@@ -1,0 +1,39 @@
+C:\Users\HP\Desktop\ASHESI\ICP\C++ FINAL PROJECT\StudentManagement\StudentM.A555AC9E\x64\Debug\StudentManagement.vcxproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ASHESI\ICP\C++ FINAL PROJECT\StudentManagement\StudentM.A555AC9E\x64\Debug\StudentManagement.MDI_Form.resources
+C:\Users\HP\Desktop\ASHESI\ICP\C++ FINAL PROJECT\StudentManagement\StudentM.A555AC9E\x64\Debug\StudentManagement.vcxproj.GenerateResource.cache
+C:\Users\HP\Desktop\ASHESI\ICP\C++ FINAL PROJECT\StudentManagement\StudentM.A555AC9E\x64\Debug\StudentManagement.GetEnrollmentDetails.resources
+C:\Users\HP\Desktop\ASHESI\ICP\C++ FINAL PROJECT\StudentManagement\StudentM.A555AC9E\x64\Debug\StudentManagement.SeeRoster.resources
+C:\Users\HP\Desktop\ASHESI\ICP\C++ FINAL PROJECT\StudentManagement\StudentM.A555AC9E\x64\Debug\StudentManagement.Logout.resources
+C:\Users\HP\Desktop\ASHESI\ICP\C++ FINAL PROJECT\StudentManagement\StudentM.A555AC9E\x64\Debug\StudentManagement.RegisterStudent.resources
+C:\Users\HP\Desktop\ASHESI\ICP\C++ FINAL PROJECT\StudentManagement\x64\Debug\mysql.data.dll
+C:\Users\HP\Desktop\ASHESI\ICP\C++ FINAL PROJECT\StudentManagement\StudentM.A555AC9E\x64\Debug\StudentM.A8402DFB.Up2Date
+C:\Users\HP\Desktop\ASHESI\ICP\C++ FINAL PROJECT\StudentManagement\StudentM.A555AC9E\x64\Debug\StudentManagement.EnterGrades.resources
+C:\Users\HP\Desktop\ASHESI\ICP\C++ FINAL PROJECT\StudentManagement\StudentM.A555AC9E\x64\Debug\StudentManagement.Login.resources
+C:\Users\HP\Desktop\ASHESI\ICP\C++ FINAL PROJECT\StudentManagement\StudentM.A555AC9E\x64\Debug\StudentManagement.CourseRegistrationForm.resources
+C:\Users\HP\Desktop\ASHESI\ICP\C++ FINAL PROJECT\StudentManagement\StudentM.A555AC9E\x64\Debug\StudentManagement.ViewGrades.resources
+C:\Users\HP\Desktop\ASHESI\ICP\C++ FINAL PROJECT\StudentManagement\StudentM.A555AC9E\x64\Debug\StudentManagement.AssignFaculty.resources
+C:\Users\HP\Desktop\ASHESI\ICP\C++ FINAL PROJECT\StudentManagement\StudentM.A555AC9E\x64\Debug\StudentManagement.Register.resources
+C:\Users\HP\Desktop\ASHESI\ICP\C++ FINAL PROJECT\StudentManagement\StudentM.A555AC9E\x64\Debug\StudentManagement.UpdateProfile.resources
+C:\Users\HP\Desktop\ASHESI\ICP\C++ FINAL PROJECT\StudentManagement\StudentM.A555AC9E\x64\Debug\StudentManagement.AdminManage.resources
+C:\Users\HP\Desktop\ASHESI\ICP\C++ FINAL PROJECT\StudentManagement\StudentM.A555AC9E\x64\Debug\StudentManagement.ManageFinances.resources
+C:\Users\HP\Desktop\ASHESI\ICP\C++ FINAL PROJECT\StudentManagement\StudentM.A555AC9E\x64\Debug\StudentManagement.GenerateReports.resources
+C:\Users\HP\Desktop\ASHESI\ICP\C++ FINAL PROJECT\StudentManagement\StudentM.A555AC9E\x64\Debug\StudentManagement.AccessProfile.resources
+C:\Users\HP\Desktop\StudentManagement-master\StudentM.A555AC9E\x64\Debug\StudentManagement.vcxproj.AssemblyReference.cache
+C:\Users\HP\Desktop\StudentManagement-master\StudentM.A555AC9E\x64\Debug\StudentManagement.AccessProfile.resources
+C:\Users\HP\Desktop\StudentManagement-master\StudentM.A555AC9E\x64\Debug\StudentManagement.AdminManage.resources
+C:\Users\HP\Desktop\StudentManagement-master\StudentM.A555AC9E\x64\Debug\StudentManagement.AssignFaculty.resources
+C:\Users\HP\Desktop\StudentManagement-master\StudentM.A555AC9E\x64\Debug\StudentManagement.CourseRegistrationForm.resources
+C:\Users\HP\Desktop\StudentManagement-master\StudentM.A555AC9E\x64\Debug\StudentManagement.EnterGrades.resources
+C:\Users\HP\Desktop\StudentManagement-master\StudentM.A555AC9E\x64\Debug\StudentManagement.GenerateReports.resources
+C:\Users\HP\Desktop\StudentManagement-master\StudentM.A555AC9E\x64\Debug\StudentManagement.GetEnrollmentDetails.resources
+C:\Users\HP\Desktop\StudentManagement-master\StudentM.A555AC9E\x64\Debug\StudentManagement.Login.resources
+C:\Users\HP\Desktop\StudentManagement-master\StudentM.A555AC9E\x64\Debug\StudentManagement.Logout.resources
+C:\Users\HP\Desktop\StudentManagement-master\StudentM.A555AC9E\x64\Debug\StudentManagement.ManageFinances.resources
+C:\Users\HP\Desktop\StudentManagement-master\StudentM.A555AC9E\x64\Debug\StudentManagement.MDI_Form.resources
+C:\Users\HP\Desktop\StudentManagement-master\StudentM.A555AC9E\x64\Debug\StudentManagement.Register.resources
+C:\Users\HP\Desktop\StudentManagement-master\StudentM.A555AC9E\x64\Debug\StudentManagement.RegisterStudent.resources
+C:\Users\HP\Desktop\StudentManagement-master\StudentM.A555AC9E\x64\Debug\StudentManagement.SeeRoster.resources
+C:\Users\HP\Desktop\StudentManagement-master\StudentM.A555AC9E\x64\Debug\StudentManagement.UpdateProfile.resources
+C:\Users\HP\Desktop\StudentManagement-master\StudentM.A555AC9E\x64\Debug\StudentManagement.ViewGrades.resources
+C:\Users\HP\Desktop\StudentManagement-master\StudentM.A555AC9E\x64\Debug\StudentManagement.vcxproj.GenerateResource.cache
+C:\Users\HP\Desktop\StudentManagement-master\StudentM.A555AC9E\x64\Debug\StudentM.A8402DFB.Up2Date
