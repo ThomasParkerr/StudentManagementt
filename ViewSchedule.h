@@ -90,10 +90,10 @@ namespace StudentManagement {
             conn = gcnew MySqlConnection(connectionString);
 
             // Modified query to fetch courseName as well
-            String^ query = "SELECT s.courseID, c.courseName, s.day, s.start_time, s.end_time "
-                "FROM schedule s "
-                "JOIN courses c ON s.courseID = c.courseID "
-                "WHERE s.studentID = @studentID";
+            String^ query = "SELECT c.courseID, c.courseName, c.schedule, c.start_time, c.end_time "
+                "FROM courses c "
+                "JOIN enrollments e ON e.courseID = c.courseID "
+                "WHERE e.studentID = @studentID";
             cmd = gcnew MySqlCommand(query, conn);
             cmd->Parameters->AddWithValue("@studentID", txtStudentID->Text);
 
@@ -108,7 +108,7 @@ namespace StudentManagement {
                 while (reader->Read())
                 {
                     // Add the data to the DataGridView
-                    dgvSchedule->Rows->Add(reader["courseID"], reader["courseName"], reader["day"], reader["start_time"], reader["end_time"]);
+                    dgvSchedule->Rows->Add(reader["courseID"], reader["courseName"], reader["schedule"], reader["start_time"], reader["end_time"]);
                 }
             }
             catch (Exception^ ex)
